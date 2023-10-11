@@ -1,3 +1,3 @@
 # kaggle-house-price-prediction
 use linear regression to predict house price on kaggle
-i am updating the work rencently
+i add a version use SGDregressor to promote the model
