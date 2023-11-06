@@ -1,3 +1,4 @@
 # kaggle-house-price-prediction
-use some models to predict houseprice on kaggle，
-updating  
+use some models to predict houseprice on kaggle
+i am planning to write a simple paper use the dataset
+
